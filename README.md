@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Tempone</h1>
-<h3 align="center">A solve problems with Data</h3>
+<h3 align="center">I solve problems with Data</h3>
 
 - 🌱 I’m currently learning **AWS, Yolo**
 
