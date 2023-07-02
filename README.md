@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ptempone/](https://www.linkedin.com/in/ptempone/)
 
+-  <a rel="me" href="https://mastodon.social/@pmtempone">Mastodon</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/temponepablo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="temponepablo" height="30" width="40" /></a>
